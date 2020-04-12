@@ -2,8 +2,10 @@
 ### *2019036380 이다은*
 ###### -
 ## *"My Info"*
-#### *HANYANG ERICA Division of computer science*
 #### *AGE : 21*
+#### *HANYANG ERICA Division of computer science*
+#### *Major : Computer*
+#### *Grade : sophomore in university*
 #####  *My Page : https://lee-da-eun.github.io/* 
 ###### -
 ## TEAM NAME
